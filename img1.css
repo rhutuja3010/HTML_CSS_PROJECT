@@ -1,0 +1,11 @@
+.heading{
+   
+    color: lightslategray;
+    font-size: 27px;
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    
+}

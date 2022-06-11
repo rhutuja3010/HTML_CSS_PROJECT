@@ -1,0 +1,96 @@
+a{
+    display: block;
+    color:black;
+}
+a:hover,active a{
+    background-color:rgb(198, 198, 199);
+}
+.img1{
+    position: relative;
+    bottom: 30px;
+}
+.all{
+    display: flex;
+    height: 30px;
+    text-align: center;
+    position:fixed;
+    top: 0px;
+    width: 100%;
+    background-color: white;
+    left: 0;
+    /* position: absolute; */
+}
+.frist{
+    margin-right: 5px;
+    position: relative;
+    left: 1%;
+    font-size: 13px;
+}
+
+.about{
+    margin-right: 5px;
+    position: relative;
+    left: 58%;
+    font-size: 13px;
+}
+.menu{
+    margin-right: 5px;
+    position: relative;
+    left: 61%;
+    font-size: 13px;
+}
+.contact{
+    margin-right: 5px;
+    position: relative;
+    left: 63%;
+    font-size: 13px;
+}
+.heading{
+  position: absolute;
+  bottom: 5px;
+  left: 16px;
+  color: lightslategray;
+  font-size: 27px;
+  font-family: "Playfair Display";
+  letter-spacing: 5px;
+  
+}
+.main1{
+    display: flex                                                                               
+}
+.sub_main{
+    position: relative;
+    margin-left: 30;
+}
+.s{
+    position: relative;
+    margin-left: 3%;
+    text-align: center;
+}
+.p{
+    position: relative;
+    margin-left: 0;
+}
+.s2{
+    position: relative;
+    margin-left: 3%;
+    text-align: center;
+}
+.c{
+    color: lightsteelblue;
+}
+.button{
+    width: 150px;
+    height: 50px;
+    text-align: center;
+}
+input{
+    height:50px ;
+    width: 950px;
+}
+button:hover,active button{
+    background-color:lightslategray;
+}
+
+
+

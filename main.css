@@ -1,0 +1,46 @@
+a{
+    display: block;
+    color:black;
+}
+a:hover,active a{
+    background-color:rgb(198, 198, 199);
+}
+.img1{
+    position: relative;
+    bottom: 30px;
+}
+.all{
+    display: flex;
+    height: 30px;
+    text-align: center;
+    position:fixed;
+    top: 0px;
+    width: 100%;
+    background-color: white;
+    left: 0;
+}
+.frist{
+    margin-right: 5px;
+    position: relative;
+    left: 1%;
+    font-size: 13px;
+}
+
+.about{
+    margin-right: 5px;
+    position: relative;
+    left: 58%;
+    font-size: 13px;
+}
+.menu{
+    margin-right: 5px;
+    position: relative;
+    left: 61%;
+    font-size: 13px;
+}
+.contact{
+    margin-right: 5px;
+    position: relative;
+    left: 63%;
+    font-size: 13px;
+}

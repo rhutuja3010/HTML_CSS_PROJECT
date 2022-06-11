@@ -1,0 +1,16 @@
+.main1{
+    display: flex                                                                               
+}
+.sub_main{
+    position: relative;
+    margin-left: 30;
+}
+.s{
+    position: relative;
+    margin-left: 3%;
+    text-align: center;
+}
+.p{
+    position: relative;
+    margin-left: 0;
+}
